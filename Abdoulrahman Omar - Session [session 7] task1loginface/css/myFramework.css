@@ -1,0 +1,33 @@
+body
+{
+    background-color: #F7F7F7
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    border: none;
+    list-style: none;
+}
+.container{
+    width: 1311px;
+    margin: auto;
+}
+.clear-fix{
+    clear: both;
+}
+.block-right{
+    float: right;
+}
+.block-left{
+    float: left;
+}
+.txt-right{
+    text-align: right;
+}
+ .txt-left{
+    text-align: left;
+}
+ .txt-center{
+    text-align: center;
+} 
