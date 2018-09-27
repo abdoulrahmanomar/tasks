@@ -1,0 +1,119 @@
+
+	
+	body{
+		font-family: Helvetica, Arial, sans-serif;
+		margin:auto;
+		background-color:#E6ECF0; 
+	}
+	#menu-bar-container{
+		background-color: white;
+		width: 100%;
+		border: 1px solid #ACB1B4;
+	}
+	
+	#menu-bar{
+		
+		width: 900px;
+		margin:auto;
+		height: 46px;
+	
+		
+
+	}
+	#icon{
+		width: 30px;
+		margin: 11px 0px 10px 10px;
+		float: left;
+		margin-left: 70px;
+
+	}
+	#menu-bar a{
+		color: #66757F;
+		text-decoration: none;
+        font-weight:bold;
+		padding-top: 18px;
+		padding-right: 30px;
+		font-size: 13px;
+		height: 100% ;
+		float: left;
+	}
+	#menu-bar a:hover{
+		text-decoration: underline;
+	}
+	#language{
+		border: none;
+		float: right;
+		background-color: white;
+		margin-top: 18px;
+		color: #66757F;
+		text-decoration: underline;
+	}
+	.clear{
+		clear: both;
+	}
+		#content{
+		width:830px;
+		margin-top: 15px;
+		position: relative;
+		height: 340px;
+		background-color: white;
+		margin-top: 10px;
+		margin-left: 584px;
+		border: 1px solid #ACB1B4;
+            margin: auto;
+            margin-top: 10px;
+	}
+		#login-details{
+		background-color: white;
+		width: 585px;
+		margin: 0px auto;
+		height: 162px;
+		margin-top: 40px;
+	}
+	.button{
+    background-color:#1da1f2;
+    border:1px solid #1da1f2;
+    color: #fff;
+    text-align: center;
+    text-decoration:none;
+    font-weight:bold;
+    border-radius: 100px;
+    cursor:pointer;
+    font-size: 14px;
+    line-height: 20px;
+    padding: 6px 16px;
+    white-space: nowrap;
+
+	}
+	#remember{
+		font-size: 14px;
+	}
+	#input-box{
+		width: 280px;
+		margin-right: 10px;
+		padding: 4px;
+		border: 1px solid #E6ECF0;
+		font-size: 14px;
+	}
+	#forgot-password{
+		text-decoration: none;
+		color: #6DBAEB;
+		font-size: 14px;
+	}
+	#forgot-password:hover{
+		text-decoration: underline;
+	}
+	#lower-content{
+		height: 100px;
+		background-color:#f5f8fa;
+	}
+	#options{
+		color: #657786;
+		font-size: 14px;
+		padding-left: 130px;
+		padding-top: 20px;
+		line-height: 33px;
+		margin-top: 36px;
+	}
+
+	
